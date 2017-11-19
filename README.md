@@ -1,0 +1,2 @@
+# magickcrem
+WordPress for eCommerce
