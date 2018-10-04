@@ -1,2 +1,2 @@
 # magickcrem
-WordPress for eCommerce
+WordPress Theme for eCommerce
